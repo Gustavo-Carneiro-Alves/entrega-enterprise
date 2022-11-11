@@ -7,10 +7,10 @@ João Pedro Milani 		        RM88132
 Luccas Vergueiro de Oliveira 	RM87037 
 
 ## Usuarios cadastrados:
-### -Admin
+### -EliasAdmin
 CPF: 12345678901
 Senha: 123
-### -Padrao
+### -EliasPadrao
 CPF:45678900000
 Senha:456
 
