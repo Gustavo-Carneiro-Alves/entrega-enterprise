@@ -11,7 +11,7 @@ Luccas Vergueiro de Oliveira 	RM87037
 CPF: 12345678901
 Senha: 123
 ### -EliasPadrao
-CPF:45678900000
+CPF: 45678900000
 Senha:456
 
 Requisitos:
